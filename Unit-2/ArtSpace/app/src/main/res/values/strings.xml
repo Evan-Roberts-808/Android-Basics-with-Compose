@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ArtSpace</string>
+    <string name="image1">Wakana Rei</string>
+    <string name="image1desc">Vocalist / Bassist</string>
+    <string name="image2">Asahi Rokka</string>
+    <string name="image2desc">Guitarist</string>
+    <string name="image3">Satou Masuki</string>
+    <string name="image3desc">Drummer</string>
+    <string name="image4">Nyubara Reona</string>
+    <string name="image4desc">Keyboardist</string>
+    <string name="image5">Tamade Chiyu</string>
+    <string name="image5desc">Producer / DJ</string>
+    <string name="prevbutton">Previous</string>
+    <string name="nextbutton">Next</string>
+</resources>
